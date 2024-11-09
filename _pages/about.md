@@ -12,6 +12,6 @@ I am a second-year master student in computer science from [School of Computer S
 I am advised by [Prof. Ping Li]([https://sites.google.com/view/pinglics]) from [School of Computer Science]((https://computer.hdu.edu.cn/)), Hangzhou Dianzi University. I am now in [Machine Learning and Vision Computing (MLVC) Research Group]([https://github.com/mlvccn]) led by Prof. Ping Li.
 
 Research Project:
-Knowledge Distillation for Action Recognition.(2023-now)
+Knowledge Distillation for Action Recognition. (2023 - Now)
 
 [Email](232050149@hdu.edu.cn) / [Github](https://github.com/pch0808).
