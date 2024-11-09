@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year master student in computer science from [School of Computer Science](https://computer.hdu.edu.cn/), [Hangzhou Dianzi University]((https://www.hdu.edu.cn/)), Hangzhou, China. My research interest includes computer vision and machine learning, especially model compression.
+I am a second-year master student in computer science from [School of Computer Science](https://computer.hdu.edu.cn/), [Hangzhou Dianzi University](https://www.hdu.edu.cn/), Hangzhou, China. My research interest includes computer vision and machine learning, especially model compression.
 
-I am advised by [Prof. Ping Li]([https://sites.google.com/view/pinglics]) from [School of Computer Science]((https://computer.hdu.edu.cn/)), Hangzhou Dianzi University. I am now in [Machine Learning and Vision Computing (MLVC) Research Group]([https://github.com/mlvccn]) led by Prof. Ping Li.
+I am advised by [Prof. Ping Li](https://sites.google.com/view/pinglics) from [School of Computer Science](https://computer.hdu.edu.cn/), Hangzhou Dianzi University. I am now in [Machine Learning and Vision Computing (MLVC) Research Group](https://github.com/mlvccn) led by Prof. Ping Li.
 
 Research Project:
 Knowledge Distillation for Action Recognition. (2023 - Now)
